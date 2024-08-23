@@ -3,6 +3,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:flutter_html/flutter_html.dart';
 import 'package:flutter_html/src/css_parser.dart';
+import 'package:flutter_html/text_theme_extensions.dart';
 
 //Export Style value-unit APIs
 export 'package:flutter_html/src/style/margin.dart';
